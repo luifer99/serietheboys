@@ -1,0 +1,28 @@
+body {
+	background: #0e1317;
+}
+#menu {
+	text-align: center;
+	border-top: 1px solid #CCC;
+	border-bottom: 1px solid #CCC;
+	padding: 20px 0;
+}
+#menu a {
+	color: #FFFFFF;
+	text-decoration: none;
+	font-size: 25px;
+	padding: 10px 52px;
+}
+#menu a:hover {
+	background: #000;
+	color: #FC0;
+	right: 80px;
+}
+h1 {
+	font size: 30px;
+	text-align: center;
+	color: #FC0;
+}
+fieldset {
+	color: #666;
+}
